@@ -49,4 +49,4 @@ let () = print_int (counter (hd lines))
 let () = print_string "\nQuest2 answer: "
 let () = print_int (basement_entrance (hd lines))
 
-let () = print_endline "\nfile Done\n"
+let () = print_endline "\n\nend of prog"
