@@ -1,1 +1,0 @@
-ocamlopt -o p str.cmxa sol4.ml
