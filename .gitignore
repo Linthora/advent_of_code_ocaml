@@ -1,20 +1,20 @@
-*.annot
-*.cmo
-*.cma
-*.cmi
-*.a
-*.o
-*.cmx
-*.cmxs
-*.cmxa
-p
+**/*.annot
+**/*.cmo
+**/*.cma
+**/*.cmi
+**/*.a
+**/*.o
+**/*.cmx
+**/*.cmxs
+**/*.cmxa
+**/p
 
 # ocamlbuild working directory
-_build/
+**/_build/
 
 # ocamlbuild targets
-*.byte
-*.native
+**/*.byte
+**/*.native
 
 # oasis generated files
 setup.data
@@ -24,7 +24,7 @@ setup.log
 .merlin
 
 # Dune generated files
-*.install
+**/*.install
 
 # Local OPAM switch
-_opam/
+**/_opam/
